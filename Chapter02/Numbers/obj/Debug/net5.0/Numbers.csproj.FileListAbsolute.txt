@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.exe
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.deps.json
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.dll
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+E:\c# book\code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.pdb
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csprojAssemblyReference.cache
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.dll
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.pdb
+E:\c# book\code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache
