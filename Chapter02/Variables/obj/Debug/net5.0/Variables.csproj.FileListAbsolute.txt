@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\Variables.exe
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\Variables.deps.json
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\Variables.dll
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\ref\Variables.dll
+E:\c# book\code\Chapter02\Variables\bin\Debug\net5.0\Variables.pdb
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.csprojAssemblyReference.cache
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.dll
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\ref\Variables.dll
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.pdb
+E:\c# book\code\Chapter02\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
