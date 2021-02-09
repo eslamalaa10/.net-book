@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\NullHandling.exe
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\NullHandling.deps.json
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\NullHandling.runtimeconfig.json
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\NullHandling.runtimeconfig.dev.json
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\NullHandling.dll
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\ref\NullHandling.dll
+E:\c# book\code\Chapter02\NullHandling\bin\Debug\net5.0\NullHandling.pdb
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.csprojAssemblyReference.cache
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.AssemblyInfo.cs
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.dll
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\ref\NullHandling.dll
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.pdb
+E:\c# book\code\Chapter02\NullHandling\obj\Debug\net5.0\NullHandling.genruntimeconfig.cache
