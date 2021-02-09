@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.exe
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.deps.json
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.dll
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+E:\c# book\code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.pdb
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.dll
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.pdb
+E:\c# book\code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
