@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.exe
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.deps.json
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.json
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.dev.json
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.dll
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.pdb
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.dll
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.pdb
+E:\c# book\code\Chapter03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.genruntimeconfig.cache
