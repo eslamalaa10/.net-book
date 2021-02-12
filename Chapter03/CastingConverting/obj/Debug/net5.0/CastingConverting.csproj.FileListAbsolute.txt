@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.exe
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.deps.json
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.json
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.runtimeconfig.dev.json
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.dll
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\ref\CastingConverting.dll
+E:\c# book\code\Chapter03\CastingConverting\bin\Debug\net5.0\CastingConverting.pdb
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csprojAssemblyReference.cache
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.AssemblyInfo.cs
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.dll
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\ref\CastingConverting.dll
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.pdb
+E:\c# book\code\Chapter03\CastingConverting\obj\Debug\net5.0\CastingConverting.genruntimeconfig.cache
