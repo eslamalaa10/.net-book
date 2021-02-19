@@ -1,0 +1,16 @@
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\Exercise04.exe
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\Exercise04.deps.json
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\Exercise04.runtimeconfig.json
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\Exercise04.runtimeconfig.dev.json
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\Exercise04.dll
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\ref\Exercise04.dll
+E:\c# book\code\Chapter03\Exercise04\bin\Debug\net5.0\Exercise04.pdb
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.csprojAssemblyReference.cache
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.AssemblyInfoInputs.cache
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.AssemblyInfo.cs
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.csproj.CoreCompileInputs.cache
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.dll
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\ref\Exercise04.dll
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.pdb
+E:\c# book\code\Chapter03\Exercise04\obj\Debug\net5.0\Exercise04.genruntimeconfig.cache
