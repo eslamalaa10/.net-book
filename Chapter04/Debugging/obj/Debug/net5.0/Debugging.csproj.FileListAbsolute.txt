@@ -1,0 +1,16 @@
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.exe
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.deps.json
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.json
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.dev.json
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.dll
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\ref\Debugging.dll
+F:\c# book\code\Chapter04\Debugging\bin\Debug\net5.0\Debugging.pdb
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.csprojAssemblyReference.cache
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfoInputs.cache
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfo.cs
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.csproj.CoreCompileInputs.cache
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.dll
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\ref\Debugging.dll
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.pdb
+F:\c# book\code\Chapter04\Debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache
